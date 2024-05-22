@@ -1,5 +1,5 @@
 # <h1>¡Welcome! I am Cristian Diaz, Argentine programmer.👋<h1>
- [![Banner-github.jpg](https://i.postimg.cc/tTPn7HVG/Banner-github.jpg)](https://postimg.cc/LY980wTx)
+ [![Banner-Github.jpg](https://i.postimg.cc/ryxwrJZc/Banner-Github.jpg)](https://postimg.cc/rzyT6SLY)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I am currently studying software engineering at the National University of Tucuman\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
