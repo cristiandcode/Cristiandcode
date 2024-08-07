@@ -4,7 +4,7 @@
 🎓 &nbsp;I am currently studying a university technical degree in programming at the National Technological University with one year to go before graduating.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I am always willing to continue learning, improving my skills.
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I dedicate myself to improving my portfolio, creating scalable projects. I am always learning which allows me to quickly adapt to new technologies and methodologies..\
 ✉️ &nbsp;You can shoot me an email at diazcristian0210@gmail.com! I'll try to respond as soon as I can.\
 <br>
   <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
