@@ -1,5 +1,6 @@
 # <h1>¡Welcome! I am Cristian Diaz, Argentine programmer.👋<h1>
  [![Banner-Github.jpg](https://i.postimg.cc/ryxwrJZc/Banner-Github.jpg)](https://postimg.cc/rzyT6SLY)
+ [![Banner-para-Linkedin-Licenciado-en-marketing-Corporativo-Verde-y-blanco.png](https://i.postimg.cc/FHT8z2wq/Banner-para-Linkedin-Licenciado-en-marketing-Corporativo-Verde-y-blanco.png)](https://postimg.cc/0zJcHHkd)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I am currently studying a university technical degree in programming at the National Technological University with one year to go before graduating.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
